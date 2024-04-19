@@ -1,0 +1,10 @@
+flask==2.1.0
+beautifulsoup4==4.9.3
+deepface==0.0.68
+opencv-python==4.5.3.56
+streamlit==1.32.0
+requests==2.31.0
+pandas==2.2.1
+numpy==1.22.0
+requests==2.26.0
+tensorflow==2.7.0
